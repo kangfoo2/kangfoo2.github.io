@@ -7,8 +7,8 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Kangfoo
-tagline:          A daily iteration
+title:            kangfoo.com
+tagline:          a daily iteration
 url:              http://kangfoo.com
 paginate:         5
 baseurl:          /
