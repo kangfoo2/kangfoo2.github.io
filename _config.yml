@@ -1,3 +1,7 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
 # Permalinks
 permalink:        pretty
 relative_permalinks: true
@@ -5,12 +9,12 @@ relative_permalinks: true
 # Setup
 title:            Kangfoo
 tagline:          A daily iteration
-url:              https://kangfoo.com
-paginate:         1
+url:              http://kangfoo.com
+paginate:         5
 baseurl:          /
 author:
-  name:           Kangfoo
-  url:            https://kangfoo.com
+  name:           Kangfoo2
+  url:            https://twitter.com/kangfoo2
   email:          kangfoo2@gmail.com
 
 # Custom vars
