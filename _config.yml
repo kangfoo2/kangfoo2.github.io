@@ -4,8 +4,8 @@ relative_permalinks: true
 
 # Setup
 title:            Kangfoo
-tagline:          Kangfoo
-url:              http://kangfoo.com
+tagline:          A daily iteration
+url:              https://kangfoo.com
 paginate:         1
 baseurl:          /
 author:
